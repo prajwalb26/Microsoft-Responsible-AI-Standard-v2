@@ -1,0 +1,1 @@
+# Microsoft-Responsible-AI-Standard-v2
